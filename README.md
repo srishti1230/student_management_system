@@ -22,3 +22,14 @@
 9. Convert the python file to .exe file
  
 10.Command python -F filename.py
+
+## SCREENSHOTS
+![image](https://github.com/srishti1230/student_management_system/blob/master/1.PNG)
+![image](https://github.com/srishti1230/student_management_system/blob/master/2.PNG)
+![image](https://github.com/srishti1230/student_management_system/blob/master/3.PNG)
+![image](https://github.com/srishti1230/student_management_system/blob/master/4.PNG)
+![image](https://github.com/srishti1230/student_management_system/blob/master/5.PNG)
+![image](https://github.com/srishti1230/student_management_system/blob/master/6.PNG)
+![image](https://github.com/srishti1230/student_management_system/blob/master/7.PNG)
+![image](https://github.com/srishti1230/student_management_system/blob/master/8.PNG)
+![image](https://github.com/srishti1230/student_management_system/blob/master/9.PNG)
